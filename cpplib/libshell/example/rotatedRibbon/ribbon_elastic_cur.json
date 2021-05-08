@@ -1,0 +1,23 @@
+{
+    "clamped_DOFs": "/ribbon_dynamic/mesh/clampedDOFs_249.txt",
+    "cur_mesh": "/ribbon_dynamic/mesh/mesh_249.obj",
+    "curedge_DOFs": "/ribbon_dynamic/mesh/edgedofs_249txt",
+    "current_velocity": "/ribbon_dynamic/velocity/vel_249.txt",
+    "density": 200.0,
+    "energy_tol": 0.0,
+    "external_force": "ribbon_external_force.txt",
+    "grad_tol": 1e-06,
+    "gravity": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "model_type": 1,
+    "newton_iter": 1000,
+    "poisson_ratio": 0.3,
+    "rest_mesh": "ribbon.obj",
+    "sff_type": 0,
+    "thickness": 0.001,
+    "variable_tol": 0.0,
+    "youngs_modulus": 100000.0
+}

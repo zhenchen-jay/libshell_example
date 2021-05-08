@@ -1,0 +1,5 @@
+cpplib/libshell/build/*
+cpplib/libshell/example/rotatedRibbon/ribbon_dynamic/*
+cpplib/libshell/example/rotatedRibbon/ribbon_dynamic_new/mesh/*
+cpplib/libshell/example/rotatedRibbon/ribbon_dynamic_new/velocity/*
+__pycache__/*
