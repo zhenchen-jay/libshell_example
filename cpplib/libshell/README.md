@@ -51,7 +51,7 @@ This procedure will build:
 The library itself depends only on [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page). The example program depends on 
  - [json](https://github.com/nlohmann/json), which is inclueded in the folder external/
  - [libigl](https://github.com/libigl/libigl) (for mesh IO), you need to clone that repo and copy the entire folder into the folder external/. 
- - [CLI11](https://github.com/CLIUtils/CLI11) and use it to build the command line app, which is inclueded in the folder external/.
+ - [CLI11](https://github.com/CLIUtils/CLI11) and use it to build the command line app, which is included as the source code in the cli/ folder.
 
 ## Compiling on Windows
 
